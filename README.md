@@ -1,4 +1,4 @@
-# Saf javascript Draggable api
+# Saf javascript Draggable Module
 
 ```js
 
@@ -106,4 +106,4 @@
 <a href="https://codepen.io/by-Meftunca/pen/jZqeVR">Örnek için tıklayınız...</a>
 
 # Uyarı
-p Proje Gelişim aşamasındadır...
+<p>Proje Gelişim aşamasındadır...</p>
